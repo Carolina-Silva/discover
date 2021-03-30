@@ -1,3 +1,4 @@
+
 :root {
     --dark-blue: #363f5f;
     
@@ -84,8 +85,6 @@ button:hover{
 .button.cancel:hover{
     opacity: 1;
 }
-
-
 
 /* HEADER =================================== */
 header {
