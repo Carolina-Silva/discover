@@ -1,7 +1,8 @@
 # Maratona Discover | 🚀
+<br><br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/devfinances.png" width="100%">
+  <img alt="dev.finances" src="./assets/logo.svg" width="300px">
 </p>
 
 ## 💻 Projeto
